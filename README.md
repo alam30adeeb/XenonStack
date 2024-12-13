@@ -31,7 +31,7 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/sysopctl.git
+    [git clone https://github.com/yourusername/sysopctl.git](https://github.com/alam30adeeb/XenonStack.git)
     cd sysopctl
     ```
 
